@@ -166,4 +166,5 @@ bool checkTie(char *spaces){
     }
     std::cout << "It was a tie\n";
     return true;
+    //commit for changes
 }
